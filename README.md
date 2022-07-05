@@ -8,3 +8,4 @@ Sample for quickly building a PHP environment with the `docker compose` command
 $ git clone https://github.com/b0cchi/quick-start-php.git
 $ cd ./quick-start-php
 $ docker compose up -d
+```
